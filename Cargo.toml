@@ -2,5 +2,7 @@
 name = "limited_binary_heap"
 version = "0.1.0"
 authors = ["loomaclin <loo.maclin@protonmail.com>"]
+description = "Wrapper over binary heap with fixed limit of vector elements"
+license = "MIT/Apache-2.0"
 
 [dependencies]
