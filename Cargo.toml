@@ -1,0 +1,6 @@
+[package]
+name = "limited_binary_heap"
+version = "0.1.0"
+authors = ["loomaclin <loo.maclin@protonmail.com>"]
+
+[dependencies]
